@@ -1,4 +1,4 @@
-👋 Hi, I'm Parikshit V, a student at PSG College of Technology, Coimbatore.
+👋 Hi, I'm Parikshit V, a Data science student at PSG College of Technology, Coimbatore.
 
 I'm passionate about technology and continuously evolving my skills in Data Science, Web Development, and Data Analysis. Currently, I'm honing my problem-solving abilities and strengthening my foundation in Data Structures and Algorithms. With a keen interest in both front-end and back-end development, I’m always eager to explore innovative projects and collaborate on solving real-world challenges.
 

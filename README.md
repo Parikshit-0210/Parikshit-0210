@@ -56,7 +56,7 @@
 ### 📊 My GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Parikshit-0210&theme=radical&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Parikshit-0210&theme=radical&border_radius=10" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parikshit-0210&layout=compact&theme=radical&hide=css" alt="Top Languages"/>
 </div>
